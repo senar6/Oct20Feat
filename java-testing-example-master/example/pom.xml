@@ -11,7 +11,7 @@
 	</parent>
 	<artifactId>example</artifactId>
 	<packaging>jar</packaging>
-
+<!-- test for fearure githunb-->
 	<name>example</name>
 	<url>https://github.com/testdouble/contributing-tests/wiki</url>
 
